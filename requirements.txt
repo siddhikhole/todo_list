@@ -1,5 +1,5 @@
 dataclasses==0.6
-Django==2.2.4
+Django==2.2.18
 djongo==1.2.33
 Pillow==6.1.0
 pymongo==3.8.0
